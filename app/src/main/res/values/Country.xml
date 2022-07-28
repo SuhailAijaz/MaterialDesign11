@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Country">SpinnerInKotlin</string>
+    <string name="selected_item">:</string>
+
+    <string-array name="Languages">
+        <item>India</item>
+        <item>Afghanistan</item>
+        <item>Turkey</item>
+        <item>USA</item>
+        <item>Canada</item>
+    </string-array>
+</resources>

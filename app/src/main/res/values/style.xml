@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Style_One">
+        <item name="android:text"> REGISTER </item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_margin">50dp</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="backgroundTint">@android:color/holo_blue_dark</item>
+    </style>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Style_textview">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Forgot Password</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/holo_blue_bright</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="numbereditext">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLength">10</item>
+        <item name="android:inputType">number</item>
+    </style>
+
+    <style name="Style_text">
+        <item name="android:text">Pick the Date</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="Style_datedata">
+        <item name="android:text">Dummy</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/holo_red_light</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <style name="Style_time">
+        <item name="android:text">Pick the Time</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="nxtactstyle">
+        <item name="android:text">Next Activity</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20dp</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="layout_goneMarginTop">20dp</item>
+    </style>
+
+
+</resources>
